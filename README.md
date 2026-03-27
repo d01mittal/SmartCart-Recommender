@@ -1,5 +1,5 @@
 
-# E-Commerce Recommendation System with Flask and Machine Learning
+# SmartCart Recommender with Flask and Machine Learning
 
 This repository contains the code and instructions to build an E-Commerce Recommendation System using Flask and various machine learning techniques, including content-based filtering, collaborative filtering, hybrid models, and multi-model approaches. The project integrates the recommendation system with a Flask-based web application to create a seamless, personalized shopping experience.
 
